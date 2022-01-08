@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amindu Nadeeshana</h1>
-<h3 align="center">I am a programmer</h3>
+<h3 align="center">I'm a software engineer student at NSBM Green University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amindu49&label=Profile%20views&color=0e75b6&style=flat" alt="amindu49" /> </p>
 
